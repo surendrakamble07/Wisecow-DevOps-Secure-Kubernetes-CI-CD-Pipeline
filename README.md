@@ -191,6 +191,4 @@ Thanks to [@nyrahul](https://github.com/nyrahul) for the original Wisecow applic
 
 ## Contact
 
-For questions or support, please open an issue or contact [mahajanbhushan2005@gmail.com](mailto:mahajanbhushan2005@gmail.com).
-
-
+For questions or support, please open an issue or contact surendrakamble55184@gmail.com
